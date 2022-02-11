@@ -298,6 +298,11 @@
   "resolved" "https://registry.npmjs.org/binary-extensions/-/binary-extensions-2.2.0.tgz"
   "version" "2.2.0"
 
+"bootstrap-icons@^1.8.1":
+  "integrity" "sha512-IXUqislddPJfwq6H+2nTkHyr9epO9h6u1AG0OZCx616w+TgzeoCjfmI3qJMQqt1J586gN2IxzB4M99Ip4sTZ1w=="
+  "resolved" "https://registry.npmjs.org/bootstrap-icons/-/bootstrap-icons-1.8.1.tgz"
+  "version" "1.8.1"
+
 "bplist-parser@^0.1.0":
   "integrity" "sha1-1g1dzCDLptx+HymbNdPh+V2vuuY="
   "resolved" "https://registry.npmjs.org/bplist-parser/-/bplist-parser-0.1.1.tgz"
